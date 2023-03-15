@@ -17,8 +17,7 @@
 [대회 홈페이지](https://www.naver.com) <br>
 [발표 ppt](/presentation.pptx)
 발표 동영상
-<iframe width = "640" height = "360" 
-        src = <iframe width="1280" height="720" src="https://www.youtube.com/embed/8jZZxexkt_s" title="[Playlist] 봄이 오고 있나 봐 🌸" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/8jZZxexkt_s" title=" 봄이 오고 있나 봐 🌸" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 # 취미
